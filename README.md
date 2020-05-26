@@ -6,3 +6,4 @@ Using data from Taarifa and the Tanzanian Ministry of Water,  predict which pump
 he data used and more information can be obtained here: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
 # List of Features
+Your goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
