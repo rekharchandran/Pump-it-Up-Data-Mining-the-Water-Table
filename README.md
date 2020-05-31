@@ -49,6 +49,6 @@ source_class - The source of the water
 waterpoint_type - The kind of waterpoint
 waterpoint_type_group - The kind of waterpoint
 
-## Feature data example
+### Feature data example
 
 For example, a single row in the dataset might have these values:
