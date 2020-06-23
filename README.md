@@ -8,7 +8,7 @@ The data used and more information can be obtained here: https://www.drivendata.
 
 # List of Features
  
- 
+ Goal is to predict the operating condition of a waterpoint for each record in the dataset. The following are set of information about the waterpoints:
 amount_tsh - Total static head (amount water available to waterpoint)
 date_recorded - The date the row was entered
 funder - Who funded the well
